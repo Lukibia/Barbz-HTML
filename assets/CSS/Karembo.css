@@ -1,0 +1,10 @@
+table{width: 100%;
+    border-collapse: collapse ;
+
+}
+th, td{border: 2px solid chartreuse;
+    padding: 10px;
+}
+h2{color: crimson;
+text-align: center;
+font-family: "DejaVu Sans Mono", Serif; }
